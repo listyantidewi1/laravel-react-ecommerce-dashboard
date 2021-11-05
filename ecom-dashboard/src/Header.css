@@ -1,0 +1,12 @@
+.navbar_link {
+  background-color: rgb(78, 78, 78);
+  padding: 10px;
+  border-radius: 8px;
+  color: white;
+  text-align: center;
+}
+
+.navbar_link:hover {
+  background-color: blueviolet;
+  color: white;
+}
