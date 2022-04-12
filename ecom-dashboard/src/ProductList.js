@@ -62,6 +62,7 @@ function ProductList() {
                   <img
                     style={{ width: 100 }}
                     src={"http://localhost:8000/" + item.file_path}
+                    alt="foto_produk"
                   ></img>
                 </td>
                 <td>
